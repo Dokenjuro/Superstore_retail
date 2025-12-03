@@ -1,0 +1,20 @@
+INSIGHTS SUMMARY
+--------------------------------------------------
+Total Revenue: $2,261,536.78
+Total Orders: 9,800
+Unique Customers: 793
+Average Order Value: $230.77
+
+Top Region: West ($710,219.68)
+Top Customer: Sean Miller ($25,043.05)
+
+Year-over-Year Overview:
+Average YoY Growth: 8.20%
+Strongest YoY Month: 9.0 (136.46%)
+Weakest YoY Month: 5.0 (-29.45%)
+
+Recommended Actions:
+1. Strengthen marketing in high-performing regions.
+2. Expand loyalty programs for top customers.
+3. Investigate weak YoY months for operational improvement.
+4. Analyze product categories to refine performance strategy.

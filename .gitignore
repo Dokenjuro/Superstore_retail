@@ -1,0 +1,19 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+env/
+venv/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# DS/ML generated files
+*.csv
+*.png
+*.jpg
+
+# If you want to include your CSVs and PNGs, remove the two lines above
