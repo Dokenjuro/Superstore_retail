@@ -1,19 +1,19 @@
-# Python cache
+# Ignore Python cache
 __pycache__/
 *.pyc
 *.pyo
+*.pyd
 
-# Virtual environments
+# Ignore virtual environments
 env/
 venv/
 .venv/
 
-# Jupyter
+# Ignore Jupyter checkpoints
 .ipynb_checkpoints/
 
-# DS/ML generated files
-*.csv
-*.png
-*.jpg
+# Ignore large runtime logs
+*.log
 
-# If you want to include your CSVs and PNGs, remove the two lines above
+# >>> DO NOT IGNORE CSV/PNG <<<
+# (Your visuals and outputs will be uploaded)
